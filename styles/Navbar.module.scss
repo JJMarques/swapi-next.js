@@ -1,0 +1,23 @@
+.nav {
+    margin-bottom: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    h1 {
+        font-weight: 400;
+    }
+
+    .menu {
+        
+        ul {
+            display: flex;
+            list-style-type: none;
+
+            li {
+                margin: 0 30px;
+            }
+        }
+    }
+}
+
